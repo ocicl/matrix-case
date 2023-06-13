@@ -1,0 +1,10 @@
+* matrix-case
+
+Control flow macros which writing nested CASE easily.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/matrix-case.git   |
+| commit  | 764392a  |
+| systems | matrix-case |
+|---------+-------------------------------------------|
+
